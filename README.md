@@ -62,6 +62,6 @@ We appreciate your contributions and look forward to collaborating with you!
 <h2 align = "center">Our Contributors❤️</h2>
 <div align = "center">
 
- ![Contributors](https://contrib.rocks/image?repo=Curious-Ecosystem/Curious-Connect)
+ <a href='https://github.com/Curious-Ecosystem/Curious-Connect/graphs/contributors'>![Contributors](https://contrib.rocks/image?repo=Curious-Ecosystem/Curious-Connect)</a>
 </div>
 Thank you for contributing to our project! 🚀
